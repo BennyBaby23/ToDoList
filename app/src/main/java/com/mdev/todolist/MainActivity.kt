@@ -5,6 +5,12 @@ import android.os.Bundle
 import android.widget.EditText
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
+/*File name: toDoList Assignment part A
+Author Name: Benny Baby
+STUDENT ID : 200469127
+App Description : CREATE A TODOlIST User Interface
+Version: Android Studio Dolphin | 2021.3.1 for Windows 64-bit */
+
 class MainActivity : AppCompatActivity() {
     var ToDoTask = mutableListOf<ToDo>(
         ToDo("Buy Vegetable", "Tomato,Onion"),
