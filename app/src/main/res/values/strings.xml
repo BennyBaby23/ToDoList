@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_text">Title</string>
+    <string name="subtitle_text">subtitle</string>
+    <string name="dialog_title">Add A Task</string>
+
+    <string name="add_ToDo_List">ADD YOUR TASK!</string>
+
+    <string name="task_prompt">ToDo List:</string>
+    <string name="comment_prompt">Comment:</string>
+
+</resources>
